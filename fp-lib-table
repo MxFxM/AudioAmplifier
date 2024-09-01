@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name AudioAmplifierFLib)(type KiCad)(uri ${KIPRJMOD}/AudioAmplifierFLib.pretty)(options "")(descr ""))
+)
